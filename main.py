@@ -1,14 +1,13 @@
+import python_base as pb
 
-def test(param):
-    """
-    函数说明
-    """
-    print(param)
+# 交互
+# pb.test(1)
 
+# 循环
+# pb.test1()
 
-msg = input('请输入：')
-
-test(msg)
-
-
-
+# 字典循环
+# pb.test2()
+# pb.test3()
+# pb.test4()
+# pb.test5()
